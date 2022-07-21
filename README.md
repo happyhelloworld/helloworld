@@ -8,4 +8,8 @@
 ## 添加一行
 feature-A
   - fix-B
+<<<<<<< HEAD
   - add hello
+=======
+  - hello master,I am fix-B
+>>>>>>> fix-B
