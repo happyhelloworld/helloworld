@@ -13,3 +13,4 @@ feature-A
 =======
   - hello master,I am fix-B
 >>>>>>> fix-B
+  - feature-C
