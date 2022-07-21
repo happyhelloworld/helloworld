@@ -6,6 +6,7 @@
 这里简单的写一个hello的READ的Markdown文档！
 
 ## 添加一行
-feature-A
+  - feature-A
   - fix-B
-  - add hello
+  - feature-C
+  - merge FC master
